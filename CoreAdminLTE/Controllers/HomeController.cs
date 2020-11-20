@@ -28,6 +28,11 @@ namespace CoreAdminLTE.Controllers
             return View();
         }
 
+        public IActionResult Detail()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
