@@ -12,13 +12,12 @@ This is an ASP.NET project that integrates the AdminLTE template for building a 
 
 ## Requirements
 
-- .NET SDK (version X.X or higher)
+- .NET SDK (version 4.X or higher)
 - Visual Studio 2022 (or Visual Studio Code with C# extension)
-- Node.js (for managing AdminLTE dependencies via npm)
 
 ## Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository-name.git
-   cd your-repository-name
+   git clone https://github.com/your-repository-name.git](https://github.com/jatwg/CoreAdminLTE.git
+   cd CoreAdminLTE
